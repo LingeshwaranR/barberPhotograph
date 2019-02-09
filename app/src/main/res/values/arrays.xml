@@ -8,11 +8,11 @@
     </string-array>
 
     <string-array name="examples">
-        <item>Custom Printing</item>
-        <item>Fast Turnaround</item>
+        <item>HairStyling</item>
+        <item>Capturing Moments</item>
         <item>Prices</item>
-        <item>Wide Range Products</item>
-        <item>Unique Products</item>
-        <item>Stylish Items</item>
+        <item>Wide Range Barbers</item>
+        <item>Unique Styles</item>
+        <item>Picturing You</item>
     </string-array>
 </resources>
