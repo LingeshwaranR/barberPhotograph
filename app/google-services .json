@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "879568364716",
+    "firebase_url": "https://ecommercetechwiz-techwiz.firebaseio.com",
+    "project_id": "ecommercetechwiz-techwiz",
+    "storage_bucket": "ecommercetechwiz-techwiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879568364716:android:3c7d6470405dd51d",
+        "android_client_info": {
+          "package_name": "com.beingdev.magicprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879568364716-3ogvlr2lb9ns6lhscbjq21do6dcfk7fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beingdev.magicprint",
+            "certificate_hash": "85f64507ada0b965f1e7d9d85c6bec1a8c51ee90"
+          }
+        },
+        {
+          "client_id": "879568364716-fk2om2a4i3234mg7tmm3n1j3uni08ihf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAg-VMk2jZI4tbo88l3kZ57lHRP43J3H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879568364716-fk2om2a4i3234mg7tmm3n1j3uni08ihf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879568364716:android:87e86095f1307720",
+        "android_client_info": {
+          "package_name": "com.example.useri.ecommercetechwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879568364716-m24vjhf92jiaj78oae63t04jh8m33ana.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.useri.ecommercetechwiz",
+            "certificate_hash": "85f64507ada0b965f1e7d9d85c6bec1a8c51ee90"
+          }
+        },
+        {
+          "client_id": "879568364716-fk2om2a4i3234mg7tmm3n1j3uni08ihf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAg-VMk2jZI4tbo88l3kZ57lHRP43J3H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879568364716-fk2om2a4i3234mg7tmm3n1j3uni08ihf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
